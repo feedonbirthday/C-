@@ -1,2 +1,0 @@
-# C#
-homework and practice 
